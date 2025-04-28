@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        .black-cell {
+            background-color: black;
+            color: white;
+        }
+        a {
+            color: purple;
+        }
